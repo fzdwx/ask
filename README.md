@@ -2,9 +2,13 @@
 
 ![](./.github/sample.gif)
 
+## Install
+
 ```bash
 go install github.com/fzdwx/ask@main
 ```
+
+## Setup
 
 ```bash
 export ASK_URL="https://api.openai.com"
